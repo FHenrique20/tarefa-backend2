@@ -14,10 +14,10 @@
       "@types/express": "^4.17.13",
       "body-parser": "^1.18.1",
       "cors": "^2.8.5",
-      "express": "^4.15.4",
+      "express": "^4.17.1",
       "pg": "^8.4.0",
       "reflect-metadata": "^0.1.10",
-      "typeorm": "0.2.36"
+      "typeorm": "^0.2.38"
    },
    "scripts": {
       "build": "tsc -p .",
